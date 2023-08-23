@@ -10,7 +10,7 @@ if (age < 18){
     price = price - (price * 20 / 100);
     finalPrice = price.toFixed(2);
 } else if (age >= 18 && age <65){
-    let price;
+ 
     finalPrice = price.toFixed(2);
 }
  else if (age >= 65){
